@@ -1,0 +1,16 @@
+body {
+    background: url("https://img.freepik.com/vetores-gratis/fundo-branco-abstrato_23-2148810113.jpg?w=2000") no-repeat center fixed ;
+    background-size: cover;
+  }
+  h1 {
+    color: rgb(255, 255, 255);
+    padding: 10px 10px;
+    background-color: rgb(10, 3, 52);
+    border-radius: 20px;
+    font-size:20px;
+    margin-left: 24%;
+    margin-right: 16%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    
+    }  

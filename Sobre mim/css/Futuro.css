@@ -1,0 +1,42 @@
+body {
+  background: url("https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80") no-repeat center fixed ;
+  background-size: cover;
+}
+
+.futuro {
+  display: flex;
+  margin-left: 22%;
+  margin-right: auto;
+  margin-top: 15%;
+  border-radius: 50px;
+  width: 70%;
+}
+
+.galeria {
+  display: flex;
+  margin-left: 40%;
+  margin-right: 0%;
+  margin-top: -10%;
+  width: 40%;
+}
+.familia {
+  margin-left: -59%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.casa {
+  margin-left: 8%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.viagem {
+
+  margin-left: 8%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}

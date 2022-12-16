@@ -1,0 +1,64 @@
+body {
+    background: url("https://midianinja.org/files/2018/09/photo_2018-09-19_14-08-15.jpg") no-repeat center fixed ;
+    background-size: cover;
+}
+
+    
+.galeria {
+    display: flex;
+    margin-left: 40%;
+    margin-right: 0%;
+    margin-top: -10%;
+    width: 40%;
+}
+.moto {
+  
+    margin-left: -59%;
+    margin-top: 180px;
+    border-radius: 40px;
+    width: 60%;
+  }
+
+  .programando {
+    margin-left: 8%;
+    margin-top: 180px;
+    border-radius: 40px;
+    width: 60%;
+  }
+
+  .futebol {
+
+    margin-left: 8%;
+    margin-top: 180px;
+    border-radius: 40px;
+    width: 60%;
+  }
+
+  .galeria2 {
+    display: flex;
+    margin-left: 40%;
+    margin-right: 0%;
+    margin-top: -5%;
+    width: 40%;
+}
+
+.dirigindo {
+  margin-left: -59%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.designer {
+  margin-left: 8%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.desenhar {
+  margin-left: 8%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}

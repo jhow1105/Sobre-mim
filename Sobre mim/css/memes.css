@@ -1,0 +1,61 @@
+body {
+    background: url("https://img.freepik.com/vetores-gratis/fundo-branco-abstrato_23-2148810113.jpg?w=2000") no-repeat center fixed ;
+    background-size: cover;
+}
+
+    
+.galeria {
+    display: flex;
+    margin-left: 40%;
+    margin-right: 0%;
+    margin-top: -10%;
+    width: 40%;
+}
+.meme-dançando {
+    margin-left: -59%;
+    margin-top: 180px;
+    border-radius: 40px;
+    width: 60%;
+  }
+  .craque-neto {
+    margin-left: 8%;
+    margin-top: 180px;
+    border-radius: 40px;
+    width: 60%;
+  }
+
+  .pedro-baterias {
+    margin-left: 8%;
+    margin-top: 180px;
+    border-radius: 40px;
+    width: 60%;
+  }
+
+  .galeria2 {
+    display: flex;
+    margin-left: 40%;
+    margin-right: 0%;
+    margin-top: -5%;
+    width: 40%;
+}
+
+.ficou-xou {
+  margin-left: -59%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.cuscuz-paulista {
+  margin-left: 8%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.bolsonaro-meme {
+  margin-left: 8%;
+  margin-top: 180px;
+  border-radius: 40px;
+  width: 60%;
+}
